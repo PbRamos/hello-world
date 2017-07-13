@@ -1,2 +1,4 @@
 # hello-world
-tutorial repo
+Hi all!
+
+I want to be part of GitHub too!
